@@ -1,0 +1,64 @@
+.logo
+{
+    background-color: #2C2F36;
+    display: flex;
+    padding-left: 40px;
+}
+.logo_contain
+{
+    color: rgba(228, 243, 255, 0.931);
+    font-size: 15px;
+    padding-top: 120px;
+    margin-left: -180px;
+    margin-top: -8px;
+}
+.adress
+{
+    color: #5e5e5e;
+    font-size: 18px;
+    letter-spacing: 2px;
+    background: linear-gradient(to right,white 30% ,rgb(182, 182, 182));
+}
+.section_bgimage
+{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj6FE-4SPOmn0-XwViCY4K0FbDIVTpDoCRQQ&usqp=CAU');
+    max-width: 100%;
+    height: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.image_in_header
+{
+    font-weight:750;
+    color:white;
+    font-size:35px;
+    padding-left:120px;
+    margin-bottom: -50px;
+}
+.bold_line
+{
+    width: 130px; 
+  height: 10px;
+  background-color:#ffffff;
+  margin-top: 0px;
+  padding-left: 50px;
+  margin-left: 120px;
+}
+.image_in_contain
+{
+    font-size: 75px;
+    font-weight:750;
+    color:#ffffff;
+    padding-left: 120px;
+    margin-top: -124px;
+    line-height: 70px;
+    padding-bottom: 70px;
+    /* font-family:Verdana, Geneva, Tahoma, sans-serif; */
+}
+.footer_contain
+{
+    background-color: #2C2F36;
+    color:white;
+    padding:30px;
+    word-spacing: 
+}
